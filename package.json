@@ -1,0 +1,28 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "browsersync": "0.0.1",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-watch": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D33I241N",
+  "license": "ISC",
+  "description": "gulp-template",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeerain/gulp-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deeerain/gulp-template/issues"
+  },
+  "homepage": "https://github.com/Deeerain/gulp-template#readme"
+}
